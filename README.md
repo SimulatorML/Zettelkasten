@@ -1,1 +1,1 @@
-# Zettelkasten-2.0
+# Zettelkasten
